@@ -37,3 +37,15 @@ p {
 a, a:visited, a:hover {
     color: #c5daec;
 }
+
+#credit {
+    position:absolute;
+    bottom:10px;
+    right:20px;
+    font-size:13px;
+    color:#333;
+}
+
+#credit a, #credit a:visited, #credit a:hover {
+    color: black;
+}
